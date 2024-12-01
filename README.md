@@ -7,5 +7,5 @@ This project implements a responsive sidebar for a photography website using onl
 - Social media links
 - Smooth transition animations
 
-##DEMO
+## DEMO
 https://payel647.github.io/MY_FIRST_PROJECT/
